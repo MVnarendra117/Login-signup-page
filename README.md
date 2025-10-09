@@ -52,19 +52,6 @@ A valid password must include:
 
 If any are missing, the form shows a single error message describing what's required.
 
-## Common Customizations
-- Change brand text/icon in `index.html`.
-- Update colors and spacing in `style.css`.
-- Adjust password policy in `script.js` → `validatePassword()`.
 
-## Deploy to GitHub Pages
-1. Push to a GitHub repo.
-2. Repo Settings → Pages → Source: “Deploy from a branch” → main → /root.
-3. Wait ~1 minute for your live URL.
 
-## Notes
-- This is a front‑end demo only; do not store real credentials.
-- For production, replace localStorage with real API calls and secure session handling.
 
-## License
-MIT
