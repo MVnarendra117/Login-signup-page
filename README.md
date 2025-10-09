@@ -50,7 +50,19 @@ A valid password must include:
 - One number
 - One special character
 
-If any are missing, the form shows a single error message describing what's required.
+## Preview
+
+@Live Preview - https://mvnarendra117.github.io/Login-signup-page/
+
+Login 
+
+<img width="1918" height="937" alt="image" src="https://github.com/user-attachments/assets/91cbf049-6487-4ab8-a184-581662f5c433" />
+
+Signup
+
+<img width="1918" height="936" alt="image" src="https://github.com/user-attachments/assets/88e980cd-a495-4335-9e04-7154c5972436" />
+
+
 
 
 
